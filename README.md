@@ -19,9 +19,8 @@ function and getting fit parametrs.
 
 5. Continuation of the previous seminar. Fitting basic things in ROOT. 
 
-6. Neutrino oscillation analysis.
+6. K0 oscillation analysis.
 
 7. Basic ntuples things in ROOT.
 
 8. K0 decays with ROOT. 
-
